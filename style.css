@@ -1,0 +1,50 @@
+body {
+    background-color:#fff;
+    color: #000;
+    font-family: Arial, sans-serif;
+    }
+    
+    header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    }
+    
+    .top-left {
+    font-size: 35px;
+    font-weight: bold;
+      color:#0000ff;
+    }
+    
+    .top-right a {
+    color:skyblue;
+    text-decoration: none;
+    margin-left: 20px;
+    }
+    
+    main {
+    padding: 40px;
+    }
+    
+    p {
+    margin-bottom: 40px;
+    }
+    main{
+    font-family:'Carolina pro',cursive;
+      font-size:35px;
+    }
+    .intro{
+      color:skyblue;
+    }
+    .pic-container img{
+        width: 900px;
+        height: auto;
+    }
+    .styled-paragraph{
+        color: grey;
+    }
+    .highlighted-text{
+        color: skyblue;
+        font-size: 70px;
+    }
