@@ -1,0 +1,202 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  .top-right a {
+/*color: rgb(80, 187, 249) ;
+    color: #4db2ec;*/
+    text-decoration: none;
+    margin-left: 20px;
+   font-size: 1.5em;
+   font-family:  'Open Sans', 'Open Sans Regular', sans-serif;
+  }
+  .one{color:#d62264 ;}
+  .two{color:  #808893;}
+  .three{
+    background-color: #0693e3;
+    color: white;
+   /* border: 3px solid yellow;*/
+    padding: 12px 16px;
+    border-radius: 15px;
+}
+.p1{
+    font: 28px;
+    font-family;
+        
+            color: #1e73be;
+            font-family: 'Mansalva' !important;
+            font-size: 28px !important;
+            line-height: 1.2 !important;
+            font-weight: 700 !important;
+            letter-spacing: -0.5px !important;
+        }
+.p2{
+    font-size: 60px !important;
+    font-family:'Epilogue' !important;
+    margin: 10px 0px 7px;
+}
+.p3{
+    font-size: 28px;
+    color: #808893;
+    font-family: 'Mansalva' !important;
+    font-size: 28px !important;
+    line-height: 1.2 !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.5px !important;
+}
+.main{
+    display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        unicode-bidi: isolate;
+}
+.star{
+    text-align: center;
+}
+.row {
+    display: flex;
+   
+  }
+  .column {
+    flex: 50%;
+    padding: 5px;
+    
+  }
+  .p4{
+        font-family: Poppins !important;
+        font-size: 55px !important;
+        line-height: 1.1 !important;
+        font-weight: 400 !important;
+        letter-spacing: 3px !important;
+    }
+  .omomehn{}
+
+  .p5{
+    font-size: 50px;
+    font-family: 'Epilogue';
+    /*margin: 10px 0px 7px;*/
+    color: #0e223b;
+    font-weight: 900;
+    font-family: var(--epilogue-2) !important;
+    font-size: 50px !important;
+    line-height: 1.1 !important;
+    font-weight: 800 !important;
+    letter-spacing: -2px !important;
+}
+.row2{display: flex;}
+.column2{
+    color: #808893;
+    font-family: var(--outfit-3) !important;
+    font-size: 17px !important;
+    line-height: 1.8 !important;
+    font-weight: 400 !important;
+}
+.P9{
+    color: #1e73be;
+    font-family: 'Ostrich sans' !important;
+    font-size: 28px !important;
+    line-height: 1.2 !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.5px !important;
+
+}
+.MOON{
+    text-align: center;
+}
+.P10{
+    font-family: 'Open sans';
+    font-size: 35px !important;
+    font-weight: 800 !important;
+}
+.picrow1{
+    align-items: center;
+    display: flex;
+    flex: 1;
+    padding: 10px;
+   /* display: block;*/
+   margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.p11A{
+    font-size: 80px;
+    font-weight: 800;
+    font-family: 'Open sans';
+   
+}
+.p11B{
+    font-size: 20px;
+    color: #808893;
+}
+.p11{
+    text-align: center;
+    text-decoration: underline #d62264 10px;
+    padding: 0px 0px 100px 0px;
+}
+.footrow1{
+    display: flex;
+    
+}
+.Fp{
+    padding: 30px;
+    padding-left: 100px;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.footrow2{
+    display: flex;
+    
+}
+  .ft1{
+    /*text-align: center !important;*/
+        /*float: none;*/
+        position: absolute;
+        /*top: 50%;*/
+        left: 37%;
+       transform: translate(-37%, -67%);
+   
+  }
+  .ft2{
+    position: absolute;
+    left: 70%;
+    transform: translate(-72%, -28%);
+   
+
+  }
+  .f32{
+    position: absolute;
+    /*top: 50%;*/
+    left: 37%;
+   transform: translate(-37%, -67%);
+
+  }
+  .footrow4{
+    padding: 10px 0px 0px 0px;
+  }
+  .f42{
+    padding: 0px 0px 0px 350px;
+  }
+  .footrow5{
+    padding: 10px 0px 0px 420px;
+  }
+  .footrow6{
+    padding: 10px 0px 0px 420px;
+  }
+  .m1{
+    text-decoration: none;
+    color: #808893;
+    font-family: system-ui, sans-serif;
+  }
+  footer{
+    padding: 50px 0px 0px 0px;
+    border-top: 2px solid #808893;
+
+  }
+  body{
+   
+  }
